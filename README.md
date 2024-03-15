@@ -24,22 +24,14 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a couple proofs of concept visualizations of this data.
 
+This one shows goals scorers and the number of goals they scored over time.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/GoalsOverTime.png)](https://vizhub.com/eschuman20/goalscorersovertime)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+This one is a scatter plot of the shots and goals for each player.
+[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/GoalsOverTime.png)](https://vizhub.com/eschuman20/goals_scatterplot_with_scale)
+And this one is a bar chart showing the top 10 goal scorers. 
+[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/GoalsOverTime.png)](https://vizhub.com/eschuman20/a8852f0040ea442181e2beb970e5e7e4)
 
 ## Open Questions
 
