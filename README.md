@@ -2,7 +2,7 @@
 
 ## Data
 
-The data I propose to visualize for my project comes from the top football league scorers dataset. This dataset has player statistis including goals, shots, shots on target, games played, etc for the top football goal scorers across a variety of leagues from 2016 to 2020. 
+The data I propose to visualize for my project comes from the Top Football League Scorers dataset. This dataset has player statistics including goals, shots, shots on target, games played, etc for the top football goal scorers across a variety of leagues from 2016 to 2020. 
 Dataset: [Top Football League Scorers](https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-scorers),
 
 
