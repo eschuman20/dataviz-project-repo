@@ -2,17 +2,19 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project comes from the top football league scorers dataset. This dataset has player statistis including goals, shots, shots on target, games played, etc for the top football goal scorers across a variety of leagues from 2016 to 2020. 
+Dataset: [Top Football League Scorers](https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-scorers),
+
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+-Which players have scored the most goals?
+-Which players are most efficient in scoring goals (more goals with less shots)?
+-How have the statistics of players changed over time?
+-What leagues have the highest goal scorers?
 
 ## Sketches
 
