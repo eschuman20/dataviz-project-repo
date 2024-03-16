@@ -11,10 +11,10 @@ Dataset: [Top Football League Scorers](https://www.kaggle.com/datasets/mohamedha
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
--Which players have scored the most goals?
--Which players are most efficient in scoring goals (more goals with less shots)?
--How have the statistics of players changed over time?
--What leagues have the highest goal scorers?
+Which players have scored the most goals?
+Which players are most efficient in scoring goals (more goals with less shots)?
+How have the statistics of players changed over time?
+What leagues have the highest goal scorers?
 
 ## Sketches
 
