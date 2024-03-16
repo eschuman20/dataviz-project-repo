@@ -35,8 +35,12 @@ And this one is a bar chart showing the top 10 goal scorers in Italy in 2016.
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+At the moment my main concern revolves around how to connect the visualizations so that if you click on one, it will cause the others to change. 
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+Week 8: Create proposal, work on developing current viz's 
+Week 9: Create bar chart viz for tracking the goals over time for a specific player
+Week 10-11: Work on adding interaction across viz's
+Week 12: Add a menu to the overall viz so additional stats can be viewed
+Weeks 13-14: Final testing and fine tuning
