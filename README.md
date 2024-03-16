@@ -18,8 +18,8 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+This is an outline of my proposed viz.
+[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline.png)]
 
 
 ## Prototypes
