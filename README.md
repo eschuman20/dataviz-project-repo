@@ -19,7 +19,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 This is an outline of my proposed viz.
-[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline.png)]
+![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline.png)
 
 
 ## Prototypes
