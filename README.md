@@ -41,6 +41,6 @@ At the moment my main concern revolves around how to connect the visualizations 
 
 Week 8: Create proposal, work on developing current viz's 
 Week 9: Create bar chart viz for tracking the goals over time for a specific player
-Week 10-11: Work on adding interaction across viz's
+Weeks 10-11: Work on adding interaction across viz's
 Week 12: Add a menu to the overall viz so additional stats can be viewed
 Weeks 13-14: Final testing and fine tuning
