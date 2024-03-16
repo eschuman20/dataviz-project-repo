@@ -18,13 +18,13 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-This is an outline of my proposed viz.
+This is an outline of my proposed viz. There will be four visualizations all connected to each other through interaction. A menu will exist on the side to show different statistics on the graphs (for example change from goals to shots on target)
 ![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline.png)
 
 
 ## Prototypes
 
-I’ve created a couple proofs of concept visualizations of this data.
+I’ve created a couple proof of concept visualizations of this data.
 
 This one shows goals scorers and the number of goals they scored over time.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/GoalsOverTime.png)](https://vizhub.com/eschuman20/goalscorersovertime)
