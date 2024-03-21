@@ -30,8 +30,10 @@ This one shows goal scorers and the number of goals they scored over time.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/GoalsOverTime.png)](https://vizhub.com/eschuman20/goalscorersovertime)
 This one is a scatter plot of the shots and goals for each player in 2018.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/scatter_plot.png)](https://vizhub.com/eschuman20/goals_scatterplot_with_scale)
-And this one is a bar chart showing the top 10 goal scorers in Italy in 2016. 
+This one is a bar chart showing the top 10 goal scorers in Italy in 2016. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/bar_chart.png)](https://vizhub.com/eschuman20/a8852f0040ea442181e2beb970e5e7e4)
+And this one is a parallel coordinates plot showing the performances of players across different stats. 
+
 
 ## Open Questions
 
