@@ -19,7 +19,7 @@ What leagues have the highest goal scorers?
 ## Sketches
 
 This is an outline of my proposed viz. There will be four visualizations all connected to each other through interaction. A menu will exist on the side to show different statistics on the graphs (for example change from goals to shots on target). There will also be menu's to filter by year and league. 
-![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline.png)
+![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline_2.png)
 
 
 ## Prototypes
