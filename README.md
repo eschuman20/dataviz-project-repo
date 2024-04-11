@@ -35,14 +35,15 @@ This one is a bar chart showing the top 5 players given a statistic.
 And this one is a parallel coordinates plot showing the performances of players across different stats. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/Parallel_Coordinates_2.png)](https://vizhub.com/eschuman20/topfootballscorersparallelcoordinates)
 
+## Midterm Reflection
+
+So far I have created all four of the viz's I would like in my final project. While they are all working properly on their own I would like to combine them in one viz, so a user can view and interact with all of them at the same time. This is what I plan to prioritize with for the rest of the course. In addition, there is some fine tuning I can do to make the visuals more visually pleasing, such as editing the column names to make them more readable. 
+
 ## Open Questions
 
 At the moment my main concern revolves around how to connect the visualizations so that if you click on one, it will cause the others to change. 
 
 ## Milestones
 
-Week 8: Create proposal, work on developing current viz's 
-Week 9: Create bar chart viz for tracking the goals over time for a specific player
-Weeks 10-11: Work on adding interaction across viz's
-Week 12: Add a menu to the overall viz so additional stats can be viewed
+Week 12: Add interaction across viz's
 Weeks 13-14: Final testing and fine tuning
