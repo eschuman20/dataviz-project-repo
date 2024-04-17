@@ -35,6 +35,10 @@ This one is a bar chart showing the top 5 players given a statistic.
 And this one is a parallel coordinates plot showing the performances of players across different stats. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/Parallel_Coordinates_2.png)](https://vizhub.com/eschuman20/topfootballscorersparallelcoordinates)
 
+
+Here is a dashboard of the four viz's together:
+[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/dashboard.png)](https://vizhub.com/eschuman20/footballscorersdash)
+
 ## Midterm Reflection
 
 So far I have created all four of the viz's I would like in my final project. While they are all working properly on their own I would like to combine them in one viz, so a user can view and interact with all of them at the same time. This is what I plan to prioritize with for the rest of the course. In addition, there is some fine tuning I can do to make the visuals more visually pleasing, such as editing the column names to make them more readable. 
