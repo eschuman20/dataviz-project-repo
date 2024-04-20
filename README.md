@@ -37,18 +37,5 @@ The last visualization is a parallel coordinates plot. This plot allows the user
 
 ## Dashboard
 
-Here is a dashboard of the four viz's together:
+To combine all of the visuals into one nice interactive visual, a dashboard was created. The dashboard was split into four quadrant, with one for each visualization. At the top of the dashboard there are four menus. The first menu is used to change the y-axis on the scatter plot, line chart, and bar chart. The second menu is used to change the x-axis on the scatter plot (the x-axis for the line chart will always be "year" and the x-axis for the bar chart will always be "player name." The third menu can be used to alter the year. This menu alters the scatter plot, bar chart and parallel coordinates plot as the data for each of those visuals is filtered by year. The fourth menu enables the user to change the league for the line and bar charts. These charts are filtered by league, while the other two visuals show all leagues.  
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/dashboard.png)](https://vizhub.com/eschuman20/footballscorersdash)
-
-## Midterm Reflection
-
-So far I have created all four of the viz's I would like in my final project. While they are all working properly on their own I would like to combine them in one viz, so a user can view and interact with all of them at the same time. This is what I plan to prioritize with for the rest of the course. In addition, there is some fine tuning I can do to make the visuals more visually pleasing, such as editing the column names to make them more readable. 
-
-## Open Questions
-
-At the moment my main concern revolves around how to connect the visualizations so that if you click on one, it will cause the others to change. 
-
-## Milestones
-
-Week 12: Add interaction across viz's
-Weeks 13-14: Final testing and fine tuning
