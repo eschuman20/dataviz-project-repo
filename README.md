@@ -22,7 +22,7 @@ The first step in my project was to sketch an outline. In my sketch, there were 
 
 I created each of my visualizations separately at first, before combining into one final dashboard at the end. 
 
-The first visualization is a scatter plot that can be modified to show the relationship between two stats (specified using the menu's above the plot) for a given year. A user can hover over a circle to see the name of the player and also filter the plot by league by double clicking on a league in the chart's legend. This plot was originally created to answer the question of "Which players are most efficient in scoring goals?" by visualizing the goals vs shots, but with the menus other statistics can be explored. 
+The first visualization is a scatter plot that can be modified to show the relationship between two stats (specified using the menu's above the plot) for a given year. A user can hover over a circle to see the name of the player and also filter the plot by league by double clicking on a league in the chart's legend. This plot was originally created to answer the question of "Which players are most efficient in scoring goals?" by visualizing the goals vs shots, but with the menus other statistics can be explored. This plot also answers the question of "What leagues have the highest goal scorers?" as the color of the circles indicates the league. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/scatter_plot2.png)](https://vizhub.com/eschuman20/scatterplotwithmenus)
 
 The second visualization is a bar chart of the top 5 players in a specified league and year. Different statistics, leagues, and years can be explored using the menus. This chart was orginally created to answer the question of "Which players have scored the most goals?" but can be utilized to answer many other questions related to other stats. 
@@ -31,7 +31,7 @@ The second visualization is a bar chart of the top 5 players in a specified leag
 The third visualization shows player statistics over time. Each line in the chart represents a different player, with the x axis showing different years and the y axis representing the performance of a player for a given statistic. The y axis can be modified using the menu at the top of the graph to display different statistics. Additionally, when a user hovers over the line, a tooltip reveals the name of the player. This visualization answers the question of "How have player statistics changed over time?"
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/line_chart.png)](https://vizhub.com/eschuman20/goalscorersovertime)
 
-The last visualization is a parallel coordinates plot. This plot 
+The last visualization is a parallel coordinates plot. This plot allows the user to compare players across several different stats that can be changed using the menus. The user can filter the stats to certain ranges by dragging on the plot. Additionally the plot allows users to compare stats across leagues through the plot's legend.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/Parallel_Coordinates_2.png)](https://vizhub.com/eschuman20/topfootballscorersparallelcoordinates)
 
 
