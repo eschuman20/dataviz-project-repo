@@ -2,31 +2,27 @@
 
 ## Data
 
-The data I propose to visualize for my project comes from the Top Football League Scorers dataset. This dataset has player statistics including goals, shots, shots on target, games played, etc for the top football goal scorers across a variety of leagues from 2016 to 2020. 
+The data I used for my project came from the Top Football League Scorers dataset. This dataset has player statistics including goals, shots, shots on target and games played for the top football goal scorers across a variety of leagues from 2016 to 2020. 
 Dataset: [Top Football League Scorers](https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-scorers)
-
 
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+After examining the data, I developed several key questions to drive the visualization and interaction decisions for the project. These questions included: Which players have scored the most goals? Which players are most efficient in scoring goals (more goals with less shots)? How have the statistics of players changed over time? What leagues have the highest goal scorers?
 
-Which players have scored the most goals?
-Which players are most efficient in scoring goals (more goals with less shots)?
-How have the statistics of players changed over time?
-What leagues have the highest goal scorers?
+At first, I was mainly focused on creating visualizations related to the goals statistic. As I learned more about interactive visualizations, I found that I could offer a user views of many other statistics with the same charts using a menu. This allowed for exploring and visualizing other stats available in the dataset. 
 
-## Sketches
+## Sketch
 
-This is an outline of my proposed viz. There will be four visualizations all connected to each other through interaction. A menu will exist on the side to show different statistics on the graphs (for example change from goals to shots on target). There will also be menu's to filter by year and league. 
+The first step in my project was to sketch an outline. In my sketch, there were four visualizations all connected to each other through interaction. A menu existed on the side to show different statistics on the graphs (for example change from goals to shots on target). There were also menu's to filter by year and league. 
 ![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/outline_2.png)
 
 
-## Prototypes
+## Visuals
 
-I’ve created a couple proof of concept visualizations of this data.
+I created each of my visualizations separately at first, before combining into one final dashboard at the end. 
 
-This one shows player statistics over time.
+The first visualization shows player statistics over time.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/line_chart.png)](https://vizhub.com/eschuman20/goalscorersovertime)
 This one is a scatter plot of player statistics, with menu's to display different statistics and a year filter.
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/scatter_plot2.png)](https://vizhub.com/eschuman20/scatterplotwithmenus)
@@ -35,6 +31,8 @@ This one is a bar chart showing the top 5 players given a statistic.
 And this one is a parallel coordinates plot showing the performances of players across different stats. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/Parallel_Coordinates_2.png)](https://vizhub.com/eschuman20/topfootballscorersparallelcoordinates)
 
+
+## Dashboard
 
 Here is a dashboard of the four viz's together:
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/dashboard.png)](https://vizhub.com/eschuman20/footballscorersdash)
