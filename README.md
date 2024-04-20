@@ -22,12 +22,16 @@ The first step in my project was to sketch an outline. In my sketch, there were 
 
 I created each of my visualizations separately at first, before combining into one final dashboard at the end. 
 
-The first visualization shows player statistics over time.
-[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/line_chart.png)](https://vizhub.com/eschuman20/goalscorersovertime)
-This one is a scatter plot of player statistics, with menu's to display different statistics and a year filter.
+The first visualization is a scatter plot that can be modified to show the relationship between two stats (specified using the menu's above the plot). A user can hover over a circle to see the name of the player and also filter the plot by league by double clicking on a league in the chart's legend. This plot was originally created to answer the question of "Which players are most efficient in scoring goals?" by visualizing the goals vs shots, but with the menu's other statistics can be explored. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/scatter_plot2.png)](https://vizhub.com/eschuman20/scatterplotwithmenus)
-This one is a bar chart showing the top 5 players given a statistic. 
+
+The second visualization is a bar chart of the top 5 players 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/bar_chart_2.png)](https://vizhub.com/eschuman20/a8852f0040ea442181e2beb970e5e7e4)
+
+The third visualization shows player statistics over time. Each line in the chart represents a different player, with the x axis showing different years and the y axis representing the performance of a player for a given statistic. The y axis can be modified using the menu at the top of the graph to display different statistics. Additionally, when a user hovers over the line, a tooltip reveals the name of the player. This visualization answers the question of "How have player statistics changed over time?"
+[![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/line_chart.png)](https://vizhub.com/eschuman20/goalscorersovertime)
+
+
 And this one is a parallel coordinates plot showing the performances of players across different stats. 
 [![image](https://github.com/eschuman20/dataviz-project-repo/blob/master/Parallel_Coordinates_2.png)](https://vizhub.com/eschuman20/topfootballscorersparallelcoordinates)
 
